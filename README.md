@@ -1,9 +1,13 @@
-#Flickr images search and sort through drag'n'drop.
+# Flickr images search and sort through drag'n'drop.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all dependencies.
 
 ### `npm start`
 
